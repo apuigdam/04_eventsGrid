@@ -32,7 +32,8 @@
                  Grid.ColumnSpan="4"
                  Margin="10"
                  FontSize="40"
-                 Text="0" TextChanged="tbTauler_TextChanged">
+                 TextAlignment="Right"
+                 Text="0">
         </TextBox>
         
         <!-- Botons -->
