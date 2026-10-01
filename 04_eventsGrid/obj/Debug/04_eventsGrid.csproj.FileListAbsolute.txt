@@ -1,0 +1,15 @@
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\bin\Debug\04_eventsGrid.exe.config
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\bin\Debug\04_eventsGrid.exe
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\bin\Debug\04_eventsGrid.pdb
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid.csproj.AssemblyReference.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\MainWindow.g.cs
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\App.g.cs
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid_MarkupCompile.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid_MarkupCompile.lref
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\MainWindow.baml
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid.g.resources
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\_04_eventsGrid.Properties.Resources.resources
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid.csproj.GenerateResource.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid.csproj.CoreCompileInputs.cache
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid.exe
+C:\Arnau Puig\insti\DAM2\04_desenvolupament-interficies\04_eventsGrid\04_eventsGrid\obj\Debug\04_eventsGrid.pdb
